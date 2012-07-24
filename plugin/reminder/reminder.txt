@@ -1,0 +1,22 @@
+VIM REMINDER
+
+<F1>  : Affiche / Masque cette aide
+<F2>  : Recherche le mot sous le curseur dans la doc de Django
+<F3>  : Nettoie le code des ^M et remplace les tabs par des espaces
+<F4>  : Active/Désactive la gestion de la souris
+<F5>  : Vérifie la conformité avec la pep8
+<F6>  : Ouverure d'une définition de classe/fonction avec Rope
+<F7>  : Renomme une classe ou une variable
+<F8>  : Affiche/Masque la fenetre taglist
+<F9>  : Affiche/Masque la fenetre d'exploration des fichiers
+<F10> : Activation/Désactivation de la complétion pour Django
+<C-t> : Affiche/Masque la liste des taches (TODO, FIXME)
+<C-h> : Affiche l'historique des modifications
+
+:Gwrite  : git add fichier_courant
+:Gread   : git checkout fichier_courant
+:Gremove : git rm fichier_courant
+:Gmove   : git mv fichier_courant (renomme)
+:Gcommit : git commit
+
+selection souris + :'<,'>Align = : Aligner une colonne sur un caractere

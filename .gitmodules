@@ -1,0 +1,54 @@
+[submodule "bundle/pep8"]
+	path = bundle/pep8
+	url = http://github.com/vim-scripts/pep8.git
+[submodule "bundle/pyflakes"]
+	path = bundle/pyflakes
+	url = http://github.com/mitechie/pyflakes-pathogen.git
+[submodule "bundle/minibufexpl"]
+	path = bundle/minibufexpl
+	url = http://github.com/fholgado/minibufexpl.vim.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = http://github.com/wincent/Command-T.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = http://github.com/vim-scripts/The-NERD-tree.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = http://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = http://github.com/ervandew/supertab.git
+[submodule "bundle/pydoc"]
+	path = bundle/pydoc
+	url = http://github.com/fs111/pydoc.vim.git
+[submodule "bundle/ropevim"]
+	path = bundle/ropevim
+	url = http://github.com/sontek/rope-vim.git
+[submodule "bundle/tasklist"]
+	path = bundle/tasklist
+	url = http://github.com/vim-scripts/TaskList.vim.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = http://github.com/msanders/snipmate.vim.git
+[submodule "bundle/snipmate_for_django"]
+	path = bundle/snipmate_for_django
+	url = http://github.com/robhudson/snipmate_for_django.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = http://github.com/sjl/gundo.vim.git
+[submodule "bundle/py.test"]
+	path = bundle/py.test
+	url = http://github.com/alfredodeza/pytest.vim.git
+[submodule "bundle/git"]
+	path = bundle/git
+	url = http://github.com/tpope/vim-git.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-align"]
+	path = bundle/vim-align
+	url = http://github.com/tsaleh/vim-align.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = http://github.com/tpope/vim-surround.git
