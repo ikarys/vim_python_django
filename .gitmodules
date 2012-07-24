@@ -12,10 +12,12 @@
 	url = http://github.com/wincent/Command-T.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = http://github.com/vim-scripts/The-NERD-tree.git
+        url = http://github.com/vim-scripts/The-NERD-tree.git
+        ignore = dirty
 [submodule "bundle/taglist"]
 	path = bundle/taglist
-	url = http://github.com/vim-scripts/taglist.vim.git
+        url = http://github.com/vim-scripts/taglist.vim.git
+        ignore = dirty
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = http://github.com/ervandew/supertab.git
@@ -31,6 +33,7 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = http://github.com/msanders/snipmate.vim.git
+        ignore = dirty
 [submodule "bundle/snipmate_for_django"]
 	path = bundle/snipmate_for_django
 	url = http://github.com/robhudson/snipmate_for_django.git
@@ -42,7 +45,8 @@
 	url = http://github.com/alfredodeza/pytest.vim.git
 [submodule "bundle/git"]
 	path = bundle/git
-	url = http://github.com/tpope/vim-git.git
+        url = http://github.com/tpope/vim-git.git
+        ignore = dirty
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
