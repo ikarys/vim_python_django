@@ -1,4 +1,5 @@
 This project is a Vim configuration Python and Django dedicated
+This repository was create  reading "Linux Magazine N°59 - Hors serie", author's article : Tristan Colombo
 
 Installation:
     git clone git
@@ -19,4 +20,5 @@ Switch to the '~/.vim' directory, and fetch submodules:
 Compile command-t:
     cd ~/.vim/bundle/command-t
     rake make
+
 
